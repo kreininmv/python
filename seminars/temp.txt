@@ -1,4 +1,0 @@
-def func(n: int = 10) -> int:
-    return n ** 2
-
-func(2)
